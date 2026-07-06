@@ -1,63 +1,60 @@
-<h1 align="center">Hi, I'm Pranesh 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4C8DFF&center=true&vCenter=true&width=620&lines=Full-stack+developer+%40+IIT+Bombay;I+take+ideas+from+prototype+to+production;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+FastAPI;Currently+building+KRNL+%F0%9F%9A%80" alt="what I do" />
+  <img src="./assets/header.svg" alt="Pranesh Bandiya — full-stack developer @ IIT Bombay" width="100%" />
 </p>
 
----
+### 👋 Hey, I'm Pranesh
 
-### 🧑‍💻 About me
+A full-stack + ML student at **IIT Bombay** who likes building things *end-to-end* — not stopping at a notebook or a localhost demo, but shipping something real people can open on their phone.
 
-- 🎓 Full-stack + ML at **IIT Bombay**
-- 🛠️ I like taking things all the way — idea → prototype → **deployed product people actually use**
-- 🧠 Interested in ML / RL and building real tools on top of them
-- 💬 Ask me about full-stack apps, async pipelines, or vector search
+Most of what I make sits where **clean product** meets **hard backend**: async pipelines, vector search, and interfaces that feel effortless on top of them.
 
-### 🚀 Featured project
+### 🔭 What I'm building right now
 
-**[KRNL](https://github.com/CodeAcc2007-dev/KRNLv3)** — a live campus email & deadline intelligence PWA for IIT Bombay students. It sorts your inbox, extracts deadlines automatically, and lets you ask your mail questions in plain English.
+<table>
+  <tr>
+    <td width="90" align="center" valign="top"><h2>🚀</h2></td>
+    <td valign="top">
+      <b><a href="https://github.com/CodeAcc2007-dev/KRNLv3">KRNL</a></b> — a live campus email &amp; deadline intelligence PWA for IIT Bombay students.<br/>
+      It sorts your inbox, extracts deadlines automatically, and lets you ask your mail questions in plain English.<br/>
+      <br/>
+      <code>FastAPI</code> &nbsp;<code>React</code>&nbsp; <code>Qdrant</code> &nbsp;<code>Celery</code>&nbsp; <code>Supabase</code>
+      &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://krnlv3.vercel.app"><b>Live&nbsp;app&nbsp;→</b></a>
+    </td>
+  </tr>
+</table>
 
-`FastAPI` · `React` · `Qdrant` · `Celery` · `Supabase` &nbsp;•&nbsp; **[🌐 Live app](https://krnlv3.vercel.app)**
+### 🧰 My toolbox
 
-### 🧰 Tech I work with
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Data**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**ML / RL**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeAcc2007-dev&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4C8DFF&icon_color=4C8DFF&text_color=EAF0F8" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAcc2007-dev&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4C8DFF&text_color=EAF0F8" alt="top languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" alt="languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,celery,redis,postgres,supabase,docker,vercel&theme=dark" alt="stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,numpy,git,linux&theme=dark" alt="ml & tools" />
 </p>
 
-<!-- Contribution snake — appears after you set up the workflow (see setup note). -->
+### 📊 By the numbers
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeAcc2007-dev/CodeAcc2007-dev/output/github-snake-dark.svg" alt="contribution snake" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeAcc2007-dev&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4C8DFF&icon_color=2FD3C6&text_color=C9D4E3" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAcc2007-dev&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4C8DFF&text_color=C9D4E3" alt="top languages" />
 </p>
 
-### 🤝 Connect
+<!-- Contribution snake — renders after you add the snake workflow (see setup). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeAcc2007-dev/CodeAcc2007-dev/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/pranesh-bandiya-985398370/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshbandiya@gmail.com)
+### 🌱 Also into
+
+- **Deep learning** — a CNN traffic-sign classifier for autonomous-vehicle perception ([WiDS 5.0](https://github.com/CodeAcc2007-dev/WiDS-Traffic-Sign-Classifier))
+- **Reinforcement learning** — [RL-Arena](https://github.com/CodeAcc2007-dev/RL-Arena-SoC) (Season of Code)
+
+### 🤝 Let's connect
+
+<a href="https://www.linkedin.com/in/pranesh-bandiya-985398370/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+</a>
+<a href="mailto:praneshbandiya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
+</a>
