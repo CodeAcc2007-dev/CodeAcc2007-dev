@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Pranesh Bandiya — full-stack applications and machine learning at IIT Bombay" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Pranesh Bandiya — full-stack applications and machine learning at IIT Bombay" width="100%" />
 </p>
 
 ### Hi, I'm Pranesh
