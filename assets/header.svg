@@ -1,4 +1,6 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Pranesh Bandiya — full-stack applications and machine learning</title>
+  <desc>IIT Bombay student building applications and reproducible machine-learning projects.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0A0D13"/>
@@ -55,7 +57,7 @@
     </rect>
 
     <!-- tagline -->
-    <text x="62" y="222" fill="#96A2B4" font-size="22" font-weight="400">I take ideas from a 2 AM prototype to a deployed product people use.</text>
+    <text x="62" y="222" fill="#96A2B4" font-size="22" font-weight="400">Full-stack applications, reproducible ML, and practical engineering.</text>
 
     <!-- status row -->
     <circle cx="70" cy="258" r="6" fill="#3FB950">

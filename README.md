@@ -1,12 +1,25 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Pranesh Bandiya — full-stack developer @ IIT Bombay" width="100%" />
+  <img src="./assets/header.svg" alt="Pranesh Bandiya — full-stack applications and machine learning at IIT Bombay" width="100%" />
 </p>
 
-### 👋 Hey, I'm Pranesh
+### Hi, I'm Pranesh
 
-A full-stack + ML student at **IIT Bombay** who likes building things *end-to-end* — not stopping at a notebook or a localhost demo, but shipping something real people can open on their phone.
+I'm **Pranesh Bandiya**, a student at **IIT Bombay**. I build full-stack applications and machine-learning projects, with an interest in the complete path from data and models to usable software.
 
-Most of what I make sits where **clean product** meets **hard backend**: async pipelines, vector search, and interfaces that feel effortless on top of them.
+My repositories include local study tools, computer-vision experiments, reinforcement-learning environments, and constrained pricing analysis. I keep setup instructions, evaluation evidence, and limitations alongside the code.
+
+### Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [LearnPath Study Planner](https://github.com/CodeAcc2007-dev/learnpath-study-planner) | A local course workspace for playlists, lessons, practice, and study progress | React · TypeScript · FastAPI · SQLite |
+| [Facial Expression Recognition](https://github.com/CodeAcc2007-dev/facial-expression-recognition) | Duplicate-safe ResNet-18 experiments and probability ensembling; **67.86% saved validation accuracy** | PyTorch · torchvision · pandas |
+| [Retail Price Optimization](https://github.com/CodeAcc2007-dev/retail-price-optimization) | Interpretable demand modelling and constrained pricing for a **49-SKU simulated retail case** | Python · pandas · SciPy |
+| [Traffic Sign Classifier](https://github.com/CodeAcc2007-dev/WiDS-Traffic-Sign-Classifier) | A 43-class CNN for GTSRB; **97.70% recorded notebook test accuracy** | TensorFlow · Keras · scikit-learn |
+| [RL Arena](https://github.com/CodeAcc2007-dev/RL-Arena-SoC) | Pygame grid games, a custom Gymnasium maze, and PPO training | Pygame · NumPy · Stable-Baselines3 |
+| [Tutorial Quality Scorer](https://github.com/CodeAcc2007-dev/tutorial-quality-scorer) | A regression exercise on **synthetic** tutorial metadata, with baseline comparisons | scikit-learn · pandas · Matplotlib |
+
+The repositories explain which results are recorded experiments, validation measurements, or simulated scenarios. Expression-category predictions do not establish a person's emotional state; synthetic tutorial scores do not measure real teaching quality.
 
 ### 🔭 What I'm building right now
 
@@ -23,38 +36,17 @@ Most of what I make sits where **clean product** meets **hard backend**: async p
   </tr>
 </table>
 
-### 🧰 My toolbox
+### Tools I work with
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" alt="languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,celery,redis,postgres,supabase,docker,vercel&theme=dark" alt="stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,git,linux&theme=dark" alt="ml & tools" />
-</p>
+**Languages:** Python, TypeScript, JavaScript, C++  
+**Applications:** React, Vite, FastAPI, SQL, SQLite  
+**Machine learning:** PyTorch, TensorFlow/Keras, NumPy, pandas, scikit-learn  
+**Workflow:** Git, Linux, reproducible experiments, documented setup
 
-### 📊 By the numbers
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/pranesh-bandiya-985398370/) · [Email](mailto:praneshbandiya@gmail.com)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeAcc2007-dev&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=4C8DFF&icon_color=2FD3C6&text_color=C9D4E3" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAcc2007-dev&layout=compact&hide_border=true&bg_color=0B0E14&title_color=4C8DFF&text_color=C9D4E3" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/CodeAcc2007-dev/CodeAcc2007-dev/output/github-snake-dark.svg" alt="Animated GitHub contribution history" width="100%" />
 </p>
-
-<!-- Contribution snake — renders after you add the snake workflow (see setup). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeAcc2007-dev/CodeAcc2007-dev/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
-</p>
-
-### 🌱 Also into
-
-- **Deep learning** — a CNN traffic-sign classifier for autonomous-vehicle perception ([WiDS 5.0](https://github.com/CodeAcc2007-dev/WiDS-Traffic-Sign-Classifier))
-- **Reinforcement learning** — [RL-Arena](https://github.com/CodeAcc2007-dev/RL-Arena-SoC) (Season of Code)
-
-### 🤝 Let's connect
-
-<a href="https://www.linkedin.com/in/pranesh-bandiya-985398370/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-</a>
-<a href="mailto:praneshbandiya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
-</a>
